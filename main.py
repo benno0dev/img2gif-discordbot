@@ -5,7 +5,7 @@ from PIL import Image
 from discord import File
 import glob
 
-token_bot = "ENTER_TOKEN_HERE"
+token_bot = "ENTER_BOT_TOKEN_HERE"
 
 
 guildID = discord.Object(id=ENTER_HERE_DISCORD_SERVER_ID_WITHOUT_QUOTES)

@@ -19,5 +19,6 @@ A poorly coded discord bot that converts a png/jpg to gif for you
 - Put main.py in an empty folder
 - Give main.py needed permissions
 - Enter Discord Bot Token and the Server ID in the script (use windows notpad or something)
+\
 The bot will now start when you open main.py
     
